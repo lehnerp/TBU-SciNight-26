@@ -1,3 +1,18 @@
+/*
+* Module <-> Pin <-> Arduino Mega
+* LCD <-> VCC <-> 5V
+* LCD <-> GND <-> GND
+* LCD <-> SDA <-> 20
+* LCD <-> SCL <-> 21
+* Keypad <-> R1 <-> 2
+* Keypad <-> R2 <-> 3
+* Keypad <-> R3 <-> 4
+* Keypad <-> R4 <-> 5
+* Keypad <-> C1 <-> 6
+* Keypad <-> C2	 <-> 7
+* Keypad <-> C3 <-> 8
+* Keypad <-> C4 <-> 9
+*/
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <Keypad.h>
