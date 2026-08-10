@@ -1,4 +1,4 @@
-NFC Simple Entry Chip Check
+**NFC Simple Entry Chip Check**
 
 Expected use with Arduino Uno and RFID-522 (more likely NFC due to 13.56MHz support).
 
