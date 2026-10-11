@@ -1,4 +1,4 @@
-# Noc – Project Overview
+# TBU-SciNight-26 – Project Overview
 
 Each active project has its own subfolder in `Projekty/` containing source files,
 `requirements.txt`, and a requirements guide. Hardware stations include
