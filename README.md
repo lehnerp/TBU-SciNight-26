@@ -1,4 +1,4 @@
-# Noc – Project Overview
+# TBU – SciNight Project Overview
 
 All projects are in the [Projekty folder](Projekty/README.md).
 Its overview describes all nine projects and explains installation.
